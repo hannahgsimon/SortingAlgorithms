@@ -1,10 +1,14 @@
-package sorting_algorithms;
-
+package project_sortingalgorithms;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Collections;
 import java.util.Arrays;
 import java.lang.Math;
+
+/**
+ *
+ * @author hannahgsimon
+ */
 
 public class SortMethods<T extends Comparable & SortProjectData>
 {
