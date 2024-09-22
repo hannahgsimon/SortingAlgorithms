@@ -1,10 +1,10 @@
 The program has the following menu options:  
-1- Author info  
+1- Author Info  
 2- Add Student  
 3- Add Faculty  
 4- Sort by ID (selection sort)  
 5- Sort by ID (radix sort)  
-6- Sort Student by GPA (merge sort)  
+6- Sort Students by GPA (merge sort)  
 7- Sort Faculty by course load (insertion sort)  
 8- Print data  
 0- Exit  
