@@ -1,4 +1,9 @@
-package sorting_algorithms;
+package project_sortingalgorithms;
+
+/**
+ *
+ * @author hannahgsimon
+ */
 
 public interface SortProjectData
 {
