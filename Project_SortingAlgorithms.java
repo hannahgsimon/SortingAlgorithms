@@ -1,11 +1,15 @@
-package sorting_algorithms;
-
+package project_sortingalgorithms;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Sorting_Algorithms
+/**
+ *
+ * @author hannahgsimon
+ */
+
+public class Project_SortingAlgorithms
 {
     public static void main(String[] args)
     {
